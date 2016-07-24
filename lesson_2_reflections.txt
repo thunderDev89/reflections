@@ -13,6 +13,8 @@ By adding into stage area only files related to a specific logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When we have to work on experiment feature, or big refactoring, etc.
+Branches help to work on the project without impacting master code 
 
 How do the diagrams help you visualize the branch structure?
 
