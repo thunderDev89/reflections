@@ -9,6 +9,7 @@ eligible files to the commit, and then offers to commit them once.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By adding into stage area only files related to a specific logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
