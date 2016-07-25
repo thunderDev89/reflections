@@ -17,6 +17,7 @@ When we have to work on experiment feature, or big refactoring, etc.
 Branches help to work on the project without impacting master code 
 
 How do the diagrams help you visualize the branch structure?
+We can identify which commit is contained in our branch, and which isn't.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
