@@ -21,6 +21,14 @@ We can identify which commit is contained in our branch, and which isn't.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging will take all changes from version of each branch and set them in one file.
+You do it to specify that commit of each branches will now be available from the ne merged commit. 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Pros :
+- determine automatically which line to include and which not
+- prevent to waste time by manually merge each file in case commit contains several files
+- fast
+Cons :
+- cannot determine the right line when updates affected the same lines (which genrates conflicts)
